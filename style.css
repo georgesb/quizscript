@@ -1,6 +1,6 @@
     body {
       font-family: 'Helvetica', sans-serif;
-      font-weight: bold;
+      <!--font-weight: bold;-->
       margin: 20px;
       background-color: #f7f7f7;
     }
@@ -30,7 +30,7 @@
 
     #result {
       margin-top: 20px;
-      font-weight: bold;
+      <!--font-weight: bold;-->
       padding: 10px;
       border-radius: 5px;
     }
